@@ -47,7 +47,7 @@ const developer = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3zo6kfylnu&rid=giphy.gif" width="30"> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,kotlin&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,angular&theme=dark&perline=8" />
 </p>
 
 <details>
