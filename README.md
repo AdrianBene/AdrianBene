@@ -11,11 +11,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianBene&show_icons=true&theme=radical&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianBene&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 ## 🚀 Tecnologías
 
 <p align="center">
@@ -45,9 +40,7 @@
 
 ## 🏆 Trofeos
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdrianBene&theme=radical&no-frame=true&row=1"/>
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=AdrianBene&theme=radical&no-frame=true&row=1&margin-w=5)
 
 ---
 
