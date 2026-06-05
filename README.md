@@ -40,7 +40,11 @@
 
 ## 🏆 Trofeos
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AdrianBene&theme=radical&no-frame=true&row=1&margin-w=5)
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianBene&show_icons=true&theme=radical" />
+</p>
 
 ---
 
