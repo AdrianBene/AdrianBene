@@ -1,35 +1,65 @@
-# 🚀 Bienvenida/o a mi perfil de GitHub
+<h1 align="center">Hola 👋, soy Adrián Beneroso</h1>
 
-¡Hola y bienvenid@ a mi perfil de GitHub! Soy **Full Stack Developer** con experiencia tanto en **frontend** como en **backend**. Apasionado del mundo de la programación, me encanta aplicar mi experiencia previa en el mundo del **diseño** al ámbito del **desarrollo web**. Siempre estudiando, siempre creando.
+<h3 align="center">
+Full Stack Developer | React • Java • Python • Docker
+</h3>
 
-**Redes:**  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sajaking_sw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-nicolas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrianbeneroso) 
----
+<p align="center">
+Apasionado por el desarrollo web y el diseño digital.
+Me gusta construir aplicaciones completas, desde la interfaz hasta la arquitectura backend.
+</p>
 
-## 🚀 Habilidades Técnicas
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
----
-
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianBeneshow_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
-## 📋 Top Lenguajes
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianBene&layout=compact&theme=radical)
-
----
-
-## 🏆 Trofeos de GitHub
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AdrianBene&theme=radical)
+<p align="center">
+  <a href="TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a>
+  <a href="TU_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🔝 Repositorio Más Contribuido
+## 🚀 Tecnologías
 
-![](https://github-contributor-stats.vercel.app/api?username=AdrianBene&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,python,docker,git,github,postman"/>
+
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdrianBene&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdrianBene&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianBene&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Racha de contribuciones
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianBene&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdrianBene&theme=radical&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 👀 Visitas
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AdrianBene&icon=5&color=6"/>
+</p>
