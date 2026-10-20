@@ -47,7 +47,7 @@ const developer = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3zo6kfylnu&rid=giphy.gif" width="30"> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,angular&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,php,ionic,angular&theme=dark&perline=8" />
 </p>
 
 <details>
@@ -63,6 +63,10 @@ const developer = {
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=php&logoColor=61DAFB)
+
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
